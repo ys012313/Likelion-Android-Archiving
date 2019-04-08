@@ -15,7 +15,7 @@
 	- 프로그램을 수많은 '객체'라는 기본 단위로 나누고 이 객체들의 상호작용으로 서술하는 방식이다.
       객체란 하나의 '역할'을 수행하는 메소드와 데이터의 묶음으로 봐야 한다.
 	- 특성: 다형성(polymorphism), 상속(inheritance), 캡슐화(encapsulation), 정보 은닉(information hiding), 추상화(abstraction) 등
-~~~
+
 
 ## 코틀린을 사용하는 이유
 
